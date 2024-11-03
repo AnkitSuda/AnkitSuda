@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsuda" alt="ankitsuda" /></a> </p>
 
-- 🔭 I’m currently working on [Rebound](https://github.com/AnkitSuda/Rebound), [UNTITLD](https://play.google.com/store/apps/details?id=com.ankitsuda.untitld)
+- 🔭 I’m currently working on [Maxout](https://maxoutapp.com), [UNTITLD](https://play.google.com/store/apps/details?id=com.ankitsuda.untitld)
 
-- 🌱 I’m currently learning **Flutter**
+- 📝 I sometimes write articles on [Medium](https://medium.com/@AnkitSuda)
 
-- 📝 I sometimes write articles on [blog.ankitsuda.com](blog.ankitsuda.com)
+- 💬 Ask me about **Android**, **Flutter** and **Web Development**
 
-- 💬 Ask me about **android**
-
-- 📫 How to reach me **me@ankitsuda.com**
+- 📫 Reach me **me@ankitsuda.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
